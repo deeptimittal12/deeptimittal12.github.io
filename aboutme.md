@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Bioinformatics researcher working in Neuroscience data management
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am Deepti Mittal, a bioinformatician by education. I am currently working as a Research Data manager in Germany.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Research data management and data coordination in neuroscience research 
+- Masters in bioinformatics, Universität des Saarlandes, Germany with a strong background in Next-generation sequencing data analysis
+- Experience with Linux based HPC or cloud environments and Programming proficiency in R, Python, bioconda, docker, Galaxy, Jupyter Notebook, RStudio, Zeppelin, Watson Studio etc along with strong software troubleshooting skills
+- Developed pipeline using Snakemake workflow management system by integrating bioinformatics software tools saving time for automated analysis and visualization of multi-omics data
 
-What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Contact Me:
+You can email me at deepti.mittal12@gmail.com
