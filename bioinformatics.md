@@ -1,17 +1,13 @@
-#Bioinformatics
-
+##  Bioinformatics Resources
 
 This is the resource page for Bioinformatics community.
 
 
-# Table of contents
+###  Table of contents
 
+###  Detailed Installation Guide
 
-# Table of contents
-# Detailed Installation Guide
-
-
-## Conda installation and setup
+###  Conda installation and setup
 
 ### Install Miniconda3 for 64-bit Linux
 
@@ -33,8 +29,8 @@ conda config --add channels bioconda
 
 
 
-# Thank you for visiting this page
+### Thank you for visiting this page
 
 
-# Questions, Suggestions, Issues
+### Questions, Suggestions, Issues
 
