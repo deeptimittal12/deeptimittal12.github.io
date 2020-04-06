@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Neuroscience Resources: "neuroscience"
+    - SFB1158: "SFB1158"
     - Bioinformatics Resources: "bioinformatics"
   Contact Me: "contactme"
 
