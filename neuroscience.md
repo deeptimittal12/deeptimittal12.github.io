@@ -2,15 +2,6 @@
 
 A list of freely available resources for Neuroscience community. This list is regularly updated and changes are welcome at deepti.mittal12@gmail.com or https://gitlab.com/-/ide/project/deepti.mittal12/neuroscience/ This list includes:
 
-To make it easier and user-friendly, these resources are divided into two categories - General resources and Internal resources provided by University of Heidelberg. Also, there is a dedicated list for SFB1158 Project.
-
-# Table of contents
-- [General Neuroscience resources](#General-Neuroscience-resources)
-    - [Online courses](#Online-courses)
-- [Current resources provided by Kompetenzzentrum Forschungsdaten:](#Current-resources-provided-by-Kompetenzzentrum-Forschungsdaten:)
-
-
-
 # General Neuroscience resources
 
 
@@ -186,18 +177,6 @@ QAP
 5. Proteomics
 6. 
 
-Internal resources
-
-
-
-# Current resources provided by Kompetenzzentrum Forschungsdaten:
-
-* [heiBOX](https://www.urz.uni-heidelberg.de/de/heibox) - data sharing for smaller data sets
-* [heiCLOUD](https://heicloud.uni-heidelberg.de/heiCLOUD) - The Heidelberg cloud infrastructure, configurable virtual analysis machines 
-* [heiArchive](https://heiarchive.uni-heidelberg.de/) - the central data archiving service at Heidelberg University, 10 year storage for data sets with metadata
-
-
-
 # SFB1158  Data management Support and Services
 
 
@@ -216,6 +195,11 @@ deepti.mittal@pharma.uni-heidelberg.de
 Twiiter
 Skype
 
+# Current resources provided by Kompetenzzentrum Forschungsdaten:
+
+* [heiBOX](https://www.urz.uni-heidelberg.de/de/heibox) - data sharing for smaller data sets
+* [heiCLOUD](https://heicloud.uni-heidelberg.de/heiCLOUD) - The Heidelberg cloud infrastructure, configurable virtual analysis machines 
+* [heiArchive](https://heiarchive.uni-heidelberg.de/) - the central data archiving service at Heidelberg University, 10 year storage for data sets with metadata
 
 ### Additional Resources
 
