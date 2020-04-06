@@ -1,5 +1,3 @@
-# Neuroscience resources
-
 A list of freely available resources for Neuroscience community. This list is regularly updated and changes are welcome at deepti.mittal12@gmail.com or https://gitlab.com/-/ide/project/deepti.mittal12/neuroscience/ This list includes:
 
  - Events, workshops and Conferences (Virtual Conferences)
