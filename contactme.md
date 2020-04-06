@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Help
-permalink: /the-help/
-order: 3
+title: Contact Me
+subtitle: Let's connect!
 ---
 
-We are constantly working on improving and extending the functionality of IMP.
-
-We highly welcome your feedback on issues and request!
-Please post them [here](https://git-r3lab.uni.lu/IMP/IMP/issues).
+I am constantly working on improving this site and the content. I would highly appreciate and welcome any suggestions from you.
+Please contact me via email deepti.mittal12@gmail.com or twitter.
 
 Thank you!
