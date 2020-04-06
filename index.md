@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BioinfoNeuro
-subtitle: Neuroscience and Bioinformatics Site
+subtitle: Neuroscience and Bioinformatics
 use-site-title: true
 ---
 
