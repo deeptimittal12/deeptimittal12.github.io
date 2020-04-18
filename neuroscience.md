@@ -1,6 +1,6 @@
 # Neuroscience Resources
 
-A list of freely available resources for Neuroscience community. This list is regularly updated and changes are welcome at deepti.mittal12@gmail.com or https://gitlab.com/-/ide/project/deepti.mittal12/neuroscience/ This list includes:
+A list of freely available resources for Neuroscience community. This list is regularly updated, any suggestions or changes are welcome at deepti.mittal12@gmail.com or https://deeptimittal12.github.io/neuroscience/ This list includes:
 
 # General Neuroscience resources
 
