@@ -1,8 +1,6 @@
-# Neuroscience Resources
+# General Neuroscience resources
 
 A list of freely available resources for Neuroscience community. This list is regularly updated, any suggestions or changes are very welcome at deepti.mittal12@gmail.com or https://deeptimittal12.github.io/neuroscience/ This list includes:
-
-# General Neuroscience resources
 
 ### Online courses 
 
@@ -105,7 +103,7 @@ This is a list of standard tools, software packages, data types and formats that
 - [Jupyter Notebook -services for interactive computing across dozens of programming languages.](https://jupyter.org/)
 
 
-# Current resources provided by Heidelberg University's Kompetenzzentrum Forschungsdaten:
+##  Current resources provided by Heidelberg University's Kompetenzzentrum Forschungsdaten:
 * [Research data management](https://www.ub.uni-heidelberg.de/cgi-bin/kurse/schulungen.cgi?aktion=detail;titel_id=307;sprache=GER)
 * [bwFDM](https://www.forschungsdaten.info/) - German-language information portal on research data management (FDM)
 * [heiDATA](https://www.urz.uni-heidelberg.de/de/heibox) - Heidelberg University's repository for research data 
