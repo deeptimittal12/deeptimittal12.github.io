@@ -46,6 +46,7 @@ This is a list of standard tools, software packages, data types and formats that
 
 #### Electrophsyiology Data Analysis
 
+- [Syntalos(formerly known as MazeAmaze) - a software for in-vivo behavior tracking, electrophysiology and control of automated mazes](https://github.com/bothlab/syntalos)
 - [Open Ephys - Open source, Well-documented tools for electrophysiology research](https://open-ephys.org/about-us-overview)
 - [SpikeInterface - simplifies the process of running multiple spike sorters on the same dataset](https://open-ephys.org/spikeinterface)
 - [Spike Sorting Software Comparison: links and descriptions of publicly available code for spike sorting](https://simonster.github.io/SpikeSortingSoftware/)
