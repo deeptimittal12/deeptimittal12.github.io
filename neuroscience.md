@@ -2,26 +2,27 @@
 
 A list of freely available resources for Neuroscience community. This list is regularly updated, any suggestions or changes are very welcome at deepti.mittal12@gmail.com or https://deeptimittal12.github.io/neuroscience/ This list includes:
 
-### Online courses 
+## Research Data Management
 
-1. Coursera   
+- [RDA - Research Data Sharing without barriers](https://www.rd-alliance.org/)
+- [LabFolder - Electronic lab notebook, All your data in one place](https://www.labfolder.com/)
+- [DMPonline - Electronic lab notebook, All your data in one placeOnline tool created by the Digital Curation Centre (DCC) to help researchers create and share data management plans.](https://dmponline.dcc.ac.uk/)
+- [Data Management Costing Tool - UK Data Service](https://www.ukdataservice.ac.uk/manage-data/plan/costing)
+- [Nextjournal - The notebook for reproducible research](https://nextjournal.com/)
+- [Code Ocean - a research collaboration platform.](https://codeocean.com/)
+- [Jupyter Notebook -services for interactive computing across dozens of programming languages.](https://jupyter.org/)
 
-Basic Neurobiology:
-   - [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/course/neurobiology)
-   - [Advanced Neurobiology I](https://www.coursera.org/learn/advanced-neurobiology1)
-   - [Advanced Neurobiology II](https://www.coursera.org/learn/advancedneurobiologyii)
-   - [Synapses, Neurons and Brains](https://www.coursera.org/learn/synapses) 
-   
 
-Medical Neuroscience:
-   - [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience)
+##  Current resources provided by Heidelberg University's Kompetenzzentrum Forschungsdaten:
+* [Research data management](https://www.ub.uni-heidelberg.de/cgi-bin/kurse/schulungen.cgi?aktion=detail;titel_id=307;sprache=GER)
+* [bwFDM](https://www.forschungsdaten.info/) - German-language information portal on research data management (FDM)
+* [heiDATA](https://www.urz.uni-heidelberg.de/de/heibox) - Heidelberg University's repository for research data 
+* [heiBOX](https://www.urz.uni-heidelberg.de/de/heibox) - data sharing for smaller data sets
+* [heiCLOUD](https://heicloud.uni-heidelberg.de/heiCLOUD) - The Heidelberg cloud infrastructure, configurable virtual analysis machines 
+* [heiArchive](https://heiarchive.uni-heidelberg.de/) - the central data archiving service at Heidelberg University, 10 year storage for data sets with metadata
 
-NeuroImaging:
-   - [MRI Fundamentals](https://www.coursera.org/learn/mri-fundamentals) 
-   - [Principles of fMRI 1](https://www.coursera.org/learn/functional-mri) 
-   - [Principles of fMRI 2](https://www.coursera.org/learn/functional-mri-2)
-   - [Fundamental Neuroscience for Neuroimaging](https://www.coursera.org/learn/neuroscience-neuroimaging)
-
+### SFB1158  Data management Support and Services
+The above list contains some resources that might be more useful for the projects under SFB1158 Pain Project. It is a collaborative effort to gather the information about all the tools, resources, services and trainings related to neurophsyiology.
 
 ### International and National Organisations, Training space, Communities
 
@@ -83,6 +84,27 @@ This is a list of standard tools, software packages, data types and formats that
 - [Open Computational Neuroscience Resources list](https://github.com/asoplata/open-computational-neuroscience-resources/blob/master/README.md#meta-resources)
 - [Computational neuroscience resources by Dan Goodman](http://neural-reckoning.org/comp-neuro-resources.html)
 
+### Online courses 
+
+1. Coursera   
+
+Basic Neurobiology:
+   - [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/course/neurobiology)
+   - [Advanced Neurobiology I](https://www.coursera.org/learn/advanced-neurobiology1)
+   - [Advanced Neurobiology II](https://www.coursera.org/learn/advancedneurobiologyii)
+   - [Synapses, Neurons and Brains](https://www.coursera.org/learn/synapses) 
+   
+
+Medical Neuroscience:
+   - [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience)
+
+NeuroImaging:
+   - [MRI Fundamentals](https://www.coursera.org/learn/mri-fundamentals) 
+   - [Principles of fMRI 1](https://www.coursera.org/learn/functional-mri) 
+   - [Principles of fMRI 2](https://www.coursera.org/learn/functional-mri-2)
+   - [Fundamental Neuroscience for Neuroimaging](https://www.coursera.org/learn/neuroscience-neuroimaging)
+
+
 ## GitLab/Github basics guides
 
 - [GitLab basics guides](https://docs.gitlab.com/ee/gitlab-basics/)
@@ -92,28 +114,6 @@ This is a list of standard tools, software packages, data types and formats that
 - [GitLab University](https://docs.gitlab.com/ee/university/)
 - [All GitLab Courses by Udemy](https://www.udemy.com/topic/gitlab/)
 
-
-## Research Data Management
-
-- [RDA - Research Data Sharing without barriers](https://www.rd-alliance.org/)
-- [LabFolder - Electronic lab notebook, All your data in one place](https://www.labfolder.com/)
-- [DMPonline - Electronic lab notebook, All your data in one placeOnline tool created by the Digital Curation Centre (DCC) to help researchers create and share data management plans.](https://dmponline.dcc.ac.uk/)
-- [Data Management Costing Tool - UK Data Service](https://www.ukdataservice.ac.uk/manage-data/plan/costing)
-- [Nextjournal - The notebook for reproducible research](https://nextjournal.com/)
-- [Code Ocean - a research collaboration platform.](https://codeocean.com/)
-- [Jupyter Notebook -services for interactive computing across dozens of programming languages.](https://jupyter.org/)
-
-
-##  Current resources provided by Heidelberg University's Kompetenzzentrum Forschungsdaten:
-* [Research data management](https://www.ub.uni-heidelberg.de/cgi-bin/kurse/schulungen.cgi?aktion=detail;titel_id=307;sprache=GER)
-* [bwFDM](https://www.forschungsdaten.info/) - German-language information portal on research data management (FDM)
-* [heiDATA](https://www.urz.uni-heidelberg.de/de/heibox) - Heidelberg University's repository for research data 
-* [heiBOX](https://www.urz.uni-heidelberg.de/de/heibox) - data sharing for smaller data sets
-* [heiCLOUD](https://heicloud.uni-heidelberg.de/heiCLOUD) - The Heidelberg cloud infrastructure, configurable virtual analysis machines 
-* [heiArchive](https://heiarchive.uni-heidelberg.de/) - the central data archiving service at Heidelberg University, 10 year storage for data sets with metadata
-
-### SFB1158  Data management Support and Services
-The above list contains some resources that might be more useful for the projects under SFB1158 Pain Project. It is a collaborative effort to gather the information about all the tools, resources, services and trainings related to neurophsyiology.
 
 ### Additional Resources
 
