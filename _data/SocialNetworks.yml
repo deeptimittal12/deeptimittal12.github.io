@@ -90,8 +90,3 @@ yelp:
   name: "Yelp"
   urlTemplate: "https://{value}.yelp.com"
   icon: "fab fa-yelp"
-
-ORCID:
-  name: "ORCID"
-  urlTemplate: "https://orcid.org/{value}"
-  icon: "fab fa-orcid"
